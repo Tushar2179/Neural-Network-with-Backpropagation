@@ -1,2 +1,3 @@
-# Neural-Network-with-Backpropagation
-My very first neural network which shows backpropagation.
+# Neural Network with Backpropagation
+
+A simple Python script showing how the backpropagation algorithm works.
