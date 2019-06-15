@@ -82,7 +82,7 @@ class NeuralNetwork:
                 
                 self.output_layer.neurons[o].weights[w_ho] -= self.LEARNING_RATE * pd_error_wrt_weight
 
-        # 4. Update hidden neuron weights
+       
         for h in range(len(self.hidden_layer.neurons)):
             for w_ih in range(len(self.hidden_layer.neurons[h].weights)):
 
